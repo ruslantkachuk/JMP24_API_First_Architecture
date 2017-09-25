@@ -1,1 +1,1 @@
-# JMP24_API_First_Architecture
+# API First architectural approach with Spring REST Docs tools
